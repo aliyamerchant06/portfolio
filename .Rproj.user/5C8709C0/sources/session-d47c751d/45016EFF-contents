@@ -29,7 +29,7 @@ h3 { margin: 1.25rem 0 0.25rem; font-size: 1.1rem; }
 <img src="assets/photo.jpg" alt="Photo of Aliya Merchant">
 <div>
 <h1>Aliya Merchant | Accountancy &amp; Business Analytics</h1>
-<p class="lede">I am an accounting student at Miami University preparing for a career in public accounting while building experience in tax, data analytics, leadership. After Miami University, I will be working at KPMG in Auditing gaining expereince analyzing many different companies. To get there I am currently building my accoutning skills through orgnizations like Women in Accounting and Alpha Kappa Psi building relationships and attending workshops. </p>
+<p class="lede">I am an accounting student at Miami University preparing for a career in public accounting while building experience in tax, data analytics, leadership. After Miami University, I will be working at KPMG in Auditing gaining expereince analyzing many different companies. To get there I am currently building my accounting skills through orgnizations like Women in Accounting and Alpha Kappa Psi building relationships and attending workshops. </p>
 <p class="meta"><a href="mailto:Merchaah@miamioh.edu">Merchaah@miamioh.edu</a> &middot; <a href="https://github.com/Aliyamerchant06">GitHub</a> &middot; <a href="https://www.linkedin.com/in/aliya-merchant">LinkedIn</a></p><p class="meta">
 <a href="resume.pdf">Resume (PDF)</a>
 </p>
@@ -40,43 +40,12 @@ h3 { margin: 1.25rem 0 0.25rem; font-size: 1.1rem; }
 <p>Hi! I am Junior at Miami University pursuing a Bachelor of Science and Master of Science in Accountancy, with minors in Entrepreneurship and Business Analytics. I have experience in tax compliance work through my internships, financial and market analysis for socially focused startups through my work at the Social Impact Fund at Miami Unviersity, and am passionate about building community through various event initiatives. I have worked with Excel, SQL, Python, R, and AI platforms such as ChatGPT, CoPilot, Gemini, and Claude.</p>
 </section>
 <section>
-<h2>Skills</h2>
-<h3>Data &amp; Programming</h3>
-<ul class="chips">
-<li>Excel</li>
-<li>SQL</li>
-<li>Python</li>
-<li>R</li>
-<li>Database Systems</li>
-<li>Data Visualization</li>
-</ul>
-<h3>Accounting &amp; Finance</h3>
-<ul class="chips">
-<li>Financial Accounting</li>
-<li>Managerial Accounting</li>
-<li>Tax Compliance</li>
-<li>Financial Statement Analysis</li>
-<li>Reconciliations</li>
-<li>CCH Access Software</li>
-</ul>
-<h3>Analysis &amp; Decision Support</h3>
-<ul class="chips">
-<li>Business Analytics</li>
-<li>Business Statistics</li>
-<li>Applied Regression Analysis</li>
-<li>Market Trend Analysis</li>
-<li>Customer Research</li>
-</ul>
-<h3>Leadership &amp; Community</h3>
-<ul class="chips">
-<li>Leadership</li>
-<li>Collaboration</li>
-<li>Event Planning</li>
-<li>Fundraising</li>
-<li>Problem Solving</li>
-<li>Creative Processes</li>
-</ul>
+<h2>Education</h2>
+<p>
+<strong>Miami University Farmer School of Business</strong>, Bachelor of Science in Accountancy | Master of Science in Accountancy | Entrepreneurship &amp; Business Analytics Minors | C <span class="meta">Expected Graduation: May 2028</span>
+</p>
 </section>
+<section>
 <section>
 <h2>Projects</h2>
 <article>
@@ -183,10 +152,42 @@ h3 { margin: 1.25rem 0 0.25rem; font-size: 1.1rem; }
 </article>
 </section>
 <section>
-<h2>Education</h2>
-<p>
-<strong>Miami University Farmer School of Business</strong>, Bachelor of Science in Accountancy | Master of Science in Accountancy | Entrepreneurship &amp; Business Analytics Minors | C <span class="meta">Expected Graduation: May 2028</span>
-</p>
+<h2>Skills</h2>
+<h3>Data &amp; Programming</h3>
+<ul class="chips">
+<li>Excel</li>
+<li>SQL</li>
+<li>Python</li>
+<li>R</li>
+<li>Database Systems</li>
+<li>Data Visualization</li>
+</ul>
+<h3>Accounting &amp; Finance</h3>
+<ul class="chips">
+<li>Financial Accounting</li>
+<li>Managerial Accounting</li>
+<li>Tax Compliance</li>
+<li>Financial Statement Analysis</li>
+<li>Reconciliations</li>
+<li>CCH Access Software</li>
+</ul>
+<h3>Analysis &amp; Decision Support</h3>
+<ul class="chips">
+<li>Business Analytics</li>
+<li>Business Statistics</li>
+<li>Applied Regression Analysis</li>
+<li>Market Trend Analysis</li>
+<li>Customer Research</li>
+</ul>
+<h3>Leadership &amp; Community</h3>
+<ul class="chips">
+<li>Leadership</li>
+<li>Collaboration</li>
+<li>Event Planning</li>
+<li>Fundraising</li>
+<li>Problem Solving</li>
+<li>Creative Processes</li>
+</ul>
 </section>
 </main>
 </body>

@@ -8,3 +8,4 @@ Personal portfolio website: https://AliyaMerchant06.github.io/portfolio/
 - Rewrote the synopsis on the two project that I have on my portfolio to better encapsulate my contribution and the project deliverables.
 - Removed skills and claims that did not accurately represent my experience and added skills that do such as ChatGPT, CoPilot, Gemini, and Claude usage. 
 - Added my email, GitHub, and LinkedIn contact information.
+- Changed order of sections: moved skills down, moved education up, and moved projects up one section.
